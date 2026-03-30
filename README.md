@@ -1,3 +1,7 @@
 # Land-Development-analyze
 У цьому проекті я проаналізував ринок земельних ділянок в Україні, а також окремо Волинської області. Знайшов найбільш прибуткові ділянки, а також побачив до якого застою привів початок війни в Україні у 2022 році
+
+Деякі візуалізації з проекту:
+
 <img width="738" height="553" alt="Знімок екрана 2026-03-30 о 20 33 00" src="https://github.com/user-attachments/assets/6e49c004-ee2f-46ab-a7e1-4f4a2f2fdcd5" />
+<img width="1690" height="752" alt="image" src="https://github.com/user-attachments/assets/da5524c6-5325-4379-9fdd-4ca962b57586" />
