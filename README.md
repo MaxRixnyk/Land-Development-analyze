@@ -5,3 +5,4 @@
 
 <img width="738" height="553" alt="Знімок екрана 2026-03-30 о 20 33 00" src="https://github.com/user-attachments/assets/6e49c004-ee2f-46ab-a7e1-4f4a2f2fdcd5" />
 <img width="1690" height="752" alt="image" src="https://github.com/user-attachments/assets/da5524c6-5325-4379-9fdd-4ca962b57586" />
+<img width="847" height="482" alt="Знімок екрана 2026-03-30 о 20 35 49" src="https://github.com/user-attachments/assets/0b2114ba-ce07-4f89-9baf-a8e92ff382d2" />
